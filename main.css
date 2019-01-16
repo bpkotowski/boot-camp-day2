@@ -1,0 +1,21 @@
+body {
+    color: blueviolet;
+    background-color: slategray;
+}
+
+header {
+    position: fixed;
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: brown;
+    
+
+    
+
+}
+
+.bullets {
+    color: black;
+    margin-top: 10px;
+
+}
